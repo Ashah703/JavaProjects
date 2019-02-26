@@ -1,0 +1,5 @@
+GBP
+MXN
+CAD
+INR
+CHF
